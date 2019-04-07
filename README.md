@@ -8,4 +8,4 @@ This repository contains artifacts from creating a computer from scratch.
  - Create gates with HDL language
  - Build assembler
  - Build VM language
- - Build lanugage that compiles to VM
+ - Build language that compiles to VM
